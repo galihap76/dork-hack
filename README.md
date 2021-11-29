@@ -1,5 +1,5 @@
 # dork-hack
-"""
+```
 //dork deface web
 
 /admin/FCKeditor/editor/filemanager/browser/default/browser.html?type=File&Connector=connectors/php/connector.php
@@ -333,4 +333,4 @@ inurl:announce.php?id=
 inurl:chappies.php?id=
 inurl:read.php?id=
 inurl:viewapp.php?id=
-"""
+```
